@@ -742,18 +742,18 @@ p + p { margin-top: 1em; }
 }
 
 .site-footer__funding {
-  margin-top: 1.75rem;
-  padding-top: 1.75rem;
+  margin-top: 4.8rem;
+  padding-top: 1rem;
   border-top: 1px solid var(--line);
   display: flex;
   align-items: center;
   gap: 1rem;
 }
 .site-footer__funding img {
-  width: 56px;
-  height: 56px;
+  width: 36px;
+  height: 36px;
   flex-shrink: 0;
-  border-radius: 3px;
+  border-radius: 2px;
 }
 .site-footer__funding p {
   font-size: 0.8rem;
