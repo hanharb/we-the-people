@@ -740,6 +740,10 @@ p + p { margin-top: 1em; }
   font-family: var(--font-display);
   font-style: italic;
 }
+.site-footer__credit {
+  display: block;
+  margin-bottom: 1.6em;
+}
 
 .site-footer__funding {
   margin-top: 4.8rem;
